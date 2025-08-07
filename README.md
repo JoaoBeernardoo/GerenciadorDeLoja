@@ -60,7 +60,10 @@ Os clientes possuem um limite de crédito e o sistema só aprova pedidos cujo to
 ## ⚙ Possíveis evoluções:
 - Para escalar o sistema, poderia-se implementar arquitetura baseada em microserviços, separando as responsabilidades: um serviço para gerenciamento de pedidos e confirmação de valores, outro para cadastro de clientes, outro para produtos, etc. 
 
-
+## ⚙ Como executar:
+- Entre na pasta web>frontend e de um "npm run dev" vai executar o frontend
+- mvn spring-boot:run dentro da pasta Api, e o backend vai está rodando, eu como estou rodando
+no vsCode so precisei baixar extensão do java e clicar em run, não precisei baixar o maven, já que ele vem na extensão.
 
 ## 📦 Tecnologias e Versões Utilizadas  
 
