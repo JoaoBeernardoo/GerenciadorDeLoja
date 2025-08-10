@@ -72,5 +72,6 @@ no vsCode so precisei baixar extensão do java e clicar em run, não precisei ba
 | 🟦 Spring Boot  | 2.7.18     |
 | ☕ Java         | 1.8        |
 | 🐘 PostgreSQL  
-| ⚛ React        | 19.1.0     |
+| ⚛ React        | 19.1.0     |.
+
 
